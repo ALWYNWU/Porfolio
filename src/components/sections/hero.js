@@ -64,8 +64,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in back-end. Currently, I’m focused on building
-        microservice application. And I am seeking SDE
+        I’m a software engineer specializing in back-end development. Currently, I’m focused on building
+        microservice application. And I am seeking SDE{' '} 
         <a href="https://www.linkedin.com/in/yilongwu/" target="_blank" rel="noreferrer">
           opportunities
         </a>

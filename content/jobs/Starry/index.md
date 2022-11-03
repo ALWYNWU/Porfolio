@@ -1,12 +1,12 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2019-09-01'
+title: 'Associate Developer Intern | Northwestern Polytechnical University'
+company: 'NPU'
+location: 'Xi an, China'
+range: 'September - December 2019'
+url: ''
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Assist lab researchers in the development of a project on scale invariant based digital image feature recognition, matching and fusion.
+- Participated in the development of image preprocessing functions, including histogram equalization processing, image rotation, image scaling and image radial distortion correction.
+
