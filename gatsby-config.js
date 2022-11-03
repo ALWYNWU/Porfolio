@@ -1,5 +1,5 @@
 const config = require('./src/config');
-
+require('events').EventEmitter.defaultMaxListeners = 0;
 module.exports = {
   siteMetadata: {
     title: 'Brittany Chiang',
