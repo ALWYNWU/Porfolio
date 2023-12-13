@@ -65,9 +65,9 @@ const Hero = () => {
     <>
       <p>
         I’m a software engineer specializing in web development. Currently, I am building
-       geospatial software at
+       geospatial software at 
         <a href="https://www.silvacomcs.com/" target="_blank" rel="noreferrer">
-          Silvacom
+           Silvacom
         </a>
         .
       </p>
