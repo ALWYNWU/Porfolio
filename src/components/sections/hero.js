@@ -59,15 +59,15 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Yilong(Nick) Wu</h2>;
-  const three = <h3 className="big-heading">I build things.</h3>;
+  const two = <h2 className="big-heading">Nick(Yilong) Wu</h2>;
+  const three = <h3 className="big-heading"></h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in back-end development. Currently, I’m focused on building
-        microservice application. And I am seeking SDE{' '} 
-        <a href="https://www.linkedin.com/in/yilongwu/" target="_blank" rel="noreferrer">
-          opportunities
+        I’m a software engineer specializing in web development. Currently, I am building
+       geospatial software at
+        <a href="https://www.silvacomcs.com/" target="_blank" rel="noreferrer">
+          Silvacom
         </a>
         .
       </p>
