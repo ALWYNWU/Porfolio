@@ -123,7 +123,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Java', 'SpringBoot', 'SpringCloud', 'Microservice', 'Mysql', 'REST API'];
+  const skills = ['Java', 'SpringBoot', 'Angular', 'Microservice', 'AWS', 'REST API'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -133,7 +133,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Yilong and I enjoy creating things. My interest in web development began in 2016 
+              Hello! My name is Nick and I enjoy creating things. My interest in web development began in 2016 
               when I was first encountered with programming in college. Once I was exposed to more of the technology stack at 
               UofA and completed a few web projects independently I decided to pursue web development as a career.
             </p>
